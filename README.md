@@ -8,13 +8,13 @@ Background: My wife works for a company that makes name badges, "Hello my name i
 
 The inspiration behind Name List Editor was that of a Notepad format, one that a list, or multiple lists, could be simply copy / pasted into the text area and corrected. 
 
-A basic File menu at the top:
+**A basic File menu at the top:**
 
 - Open
 - Save
 - Close
 
-Two Function buttons:
+**Two Function buttons:**
 
 - Analyze Spaces - Searches any content of the text area and notifies the user if any extra spaces are present. The program will tell the user how many extra spaces are found and asks the user if he / she would like to remove them. 
 
