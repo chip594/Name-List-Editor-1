@@ -1,4 +1,5 @@
-# Name List Editor v.1
+# Name List Editor
+## Version: 1
 This is the first version of a Name List Editor that I used to teach myself Java. This was my first "real" program that I created. Besides using it to teach myself, the main reason behind this program was a request from my wife to help make her job a little easier. 
 
 Built in Java, using Swing as my GUI
@@ -9,14 +10,14 @@ The inspiration behind Name List Editor was that of a Notepad format, one that a
 
 A basic File menu at the top:
 
-    - Open<br>
-    - Save
-    - Close
+- Open
+- Save
+- Close
 
 Two Function buttons:
 
-    - Analyze Spaces - Searches any content of the text area and notifies the user if any extra spaces are present. The program will tell the user how many extra spaces are found and asks the user if he / she would like to remove them. 
+- Analyze Spaces - Searches any content of the text area and notifies the user if any extra spaces are present. The program will tell the user how many extra spaces are found and asks the user if he / she would like to remove them. 
 
-    - Remove Spaces - Will skip the first step and simply remove any extra spaces.
+- Remove Spaces - Will skip the first step and simply remove any extra spaces.
 
 At the end of either process, the user will be prompted to save the newly edited list. 
